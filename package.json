@@ -32,7 +32,7 @@
     "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.0.0",
     "react-slick": "^0.29.0",
-    "sharp": "^0.31.1",
+    "sharp": "^0.35.3",
     "swiper": "^8.4.4",
     "tailwindcss": "^3.0.24",
     "taos": "^1.0.5"
